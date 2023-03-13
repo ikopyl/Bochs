@@ -127,3 +127,6 @@ bochs-msvc-src.zip
 /sfsite/tmp
 /sfsite/xcf
 /sfsite/.glimpse*
+
+.vscode
+.idea
